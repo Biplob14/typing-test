@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, butto, input, select, textarea{
+    font-family: 'Source Sans Pro', 'Helvetica', Arial, sans-serif;
+    font-size: 18px;
+    line-height: 1.5;
+}
